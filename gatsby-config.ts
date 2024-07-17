@@ -119,12 +119,11 @@ export default {
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
     {
-      resolve: "gatsby-plugin-google-gtag",
+      resolve: "gatsby-plugin-google-tagmanager",
       options: {
-        trackingIds: [config.googleAnalyticsId],
-        pluginConfig: {
-          head: true,
-        },
+        id: "GTM-5KK4Q7KZ",
+        defaultDataLayer: { platform: "gatsby" },
+        includeInDevelopment: false,
       },
     },
     {
