@@ -1,34 +1,33 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
-  "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "UA-73379983-2",
+  "title": "WXP - Web Experimentation Blog",
+  "url": "https://wxp.hu",
+  "subtitle": "A blog a webes analitikáról és konverzió optimalizálásról",
+  "copyright": "2024 © All rights reserved.",
   "disqusShortname": "",
   "postsLimit": 4,
   "pathPrefix": "/",
   "menu": [
     {
-      "label": "Articles",
+      "label": "Posztok",
       "path": "/"
     },
     {
-      "label": "About me",
+      "label": "Rólam",
       "path": "/pages/about"
     },
     {
-      "label": "Contact me",
+      "label": "Kapcsolat",
       "path": "/pages/contacts"
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Surányi Domonkos",
     "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "Eredetileg szoftverfejlesztő, de az elmúlt években a web analitika és konverzió optimalizálás felé fordultam. Megdöbbenten tapasztaltam, hogy a magyar vállalkozások mennyire nem használják ki a webes lehetőségeket. Ebben vagyok a segítségedre.",
     "contacts": {
       "rss": "",
-      "email": "",
-      "github": "alxshelepenok/gatsby-starter-lumen",
+      "email": "suranyi.domi@gmail.com",
+      "github": "#",
       "facebook": "#",
       "telegram": "#",
       "twitter": "#",
